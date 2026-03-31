@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "james-cabreros",
   "private": true,
   "version": "0.0.0",
@@ -26,5 +27,9 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.4.0",
     "vite": "^8.0.1"
+=======
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1"
+>>>>>>> c6be09f (fixed nested repo issue)
   }
 }
