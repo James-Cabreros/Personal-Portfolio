@@ -18,7 +18,7 @@ function About() {
 
           <p>
             I also have a strong foundation in <span className="accent">computer assembly and hardware</span>,
-            giving me a deeper understanding of how software interacts with physical systems.
+            giving me a deeper understanding of how software interacts with physical systems. the more you hate.
           </p>
 
           <p>

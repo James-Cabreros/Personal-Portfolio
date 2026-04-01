@@ -28,6 +28,7 @@ function Projects() {
 
         <div className="projects-scroll" ref={scrollRef}>
           {PROJECTS.map(p => (
+            
             <Card key={p.title} className={`project-card ${p.cls}`} style={{ width: '288px', flexShrink: 0 }}>
               <Card.Body>
                 <div className="project-emoji">{p.emoji}</div>
